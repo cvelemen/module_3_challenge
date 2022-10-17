@@ -4,7 +4,7 @@ Random Password Generator
 
 ## Overview
 
-Javascript Challenge for UCF Bootcamp week 3
+Javascript Challenge for bootcamp week 3
 
 
 ## File Structure
